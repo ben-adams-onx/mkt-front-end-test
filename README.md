@@ -1,7 +1,6 @@
 # mkt-front-end-test
 
 Some clever Ungulates messed up the CSS file for this page removing some of the desktop styles and all of the mobile styles.
-Luckily for us, in their hubris they left some hints in **styles.css** `/*🦌🦌🦌*/`.
 
 Not all the code that is written needs to stay, modify or adjust anything you see fit.
 

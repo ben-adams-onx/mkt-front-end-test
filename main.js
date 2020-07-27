@@ -56,12 +56,11 @@ document.addEventListener("DOMContentLoaded", function(){
     <div class="button">Read Article</div>
   </a>
   `
-  //🦌🦌🦌
+  // DRY code goes here
   var blogEntryButDRY = ``;
 
   var blogFeed = document.getElementsByClassName("blog-posts")[0];
   blogFeed.innerHTML = blogEntry;
 
-  //🦌🦌🦌
   //blogFeed.innerHTML = blogEntryButDRY;
 });

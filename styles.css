@@ -8,7 +8,6 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  /*🦌🦌🦌*/
 }
 
 h1 {
@@ -32,12 +31,10 @@ h1 {
 }
 
 .image-by-text-wrapper img {
-  /*🦌🦌🦌*/
   width: 100%;
 }
 
 .right-wrapper {
-  /*🦌🦌🦌*/
 }
 
 .phone-feature-wrapper {
@@ -46,7 +43,6 @@ h1 {
 }
 
 .phone-feature-wrapper .copy-wrapper {
-  /*🦌🦌🦌*/
 }
 
 .phone-wrapper {
@@ -64,7 +60,6 @@ h1 {
 .phone-wrapper .phone-screen {
   position: absolute;
   top: 15px;
-  /*🦌🦌🦌*/
 }
 
 .phone-screen .screenshot {
@@ -81,7 +76,6 @@ h1 {
 
 .blog-feed h3 {
   font-size: 35px;
-  /*🦌🦌🦌*/
 }
 
 .blog-posts {
@@ -96,7 +90,6 @@ h1 {
   flex-grow: 1;
   height: 100%;
   width: 25%;
-  /*🦌🦌🦌*/
 }
 
 .post-wrapper img {
