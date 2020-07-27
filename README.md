@@ -8,17 +8,12 @@ Not all the code that is written needs to stay, modify or adjust anything you se
 [Mock of the layout](https://www.figma.com/file/QAkLykHKLkZgyTJLzsHDsH/FED-Example?node-id=0%3A1)
 https://www.figma.com/file/QAkLykHKLkZgyTJLzsHDsH/FED-Example?node-id=0%3A1
 
-For the sake of this project the mobile layout ends at 1023px wide.
-
-Don't worry about matching the font.
-
-Use Chrome because I'm not transpiling this js :)
-
-If you get stuck move on to another part. Try to get as much done as you can.
-
-If you can't get something quite right explain in a comment what you think is going on/needs to happen.
-
-Don't spend more than ~3 or 4hrs.
+* For the sake of this project the mobile layout ends at 1023px wide.
+* Don't worry about matching the font.
+* Use Chrome because I'm not transpiling this js :)
+* If you get stuck move on to another part. Try to get as much done as you can.
+* If you can't get something quite right explain in a comment what you think is going on/needs to happen.
+* Don't spend more than ~3 or 4hrs.
 
 1. The **header-wrapper** isn't looking quite right, and also notice that the **subhead** moves below of the image on mobile.
 
