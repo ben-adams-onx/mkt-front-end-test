@@ -24,4 +24,4 @@ https://www.figma.com/file/QAkLykHKLkZgyTJLzsHDsH/FED-Example?node-id=0%3A1
 
 5. The **blog-posts** need the button and text to be styled. (The whole thing is clickable the button is just for show).
 
-6. The actual **blog-posts** come from the **main.js** file and this code is yucky and not very [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Loop through the **blogData** and build a new **blogEntryButDRY** that works for *1 to N* (arrays of any size in non-math jargon) blog posts.
+6. The actual **blog-posts** come from the **main.js** file and this code is yucky and not very [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Using **blogData** build a new **blogEntryButDRY** that works for *1 to N* (arrays of any size in non-math jargon) blog posts.
